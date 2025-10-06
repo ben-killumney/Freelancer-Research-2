@@ -1,0 +1,11 @@
+pandas
+psycopg2-binary
+pydantic
+python-dotenv
+requests
+sqlalchemy>=1.4
+selenium
+tenacity
+Typer>=0.9.0
+undetected-chromedriver
+dateparser
